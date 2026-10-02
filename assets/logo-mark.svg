@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">PrecisionCalibre logo</title>
+  <desc id="desc">Black P with a truck inside and a crosshair replacing the O in Precision.</desc>
+  <rect width="900" height="650" fill="#f2f2f2"/>
+
+  <path d="M324 60H578C664 60 730 108 730 201C730 299 671 349 575 357L574 518H324V60ZM479 156H568C618 156 649 177 649 207C649 241 617 266 567 266H479V156ZM479 330H564C621 330 652 354 652 394C652 451 609 477 558 477H479V330Z" fill="#111111"/>
+
+  <g transform="translate(250 130)">
+    <path d="M16 10L296 10L334 42L334 187L218 187L144 119L16 119Z" fill="#111111"/>
+    <path d="M20 40L165 40L205 72H105L20 40Z" fill="#ffffff"/>
+    <path d="M246 53H320L350 80H244L246 53Z" fill="#ffffff"/>
+    <path d="M65 115L260 115L216 171H31L65 115Z" fill="#ffffff"/>
+    <path d="M40 180H270V233H40V180Z" fill="#ffffff"/>
+    <circle cx="92" cy="236" r="29" fill="#ffffff"/>
+    <circle cx="92" cy="236" r="12" fill="#111111"/>
+    <circle cx="252" cy="236" r="29" fill="#ffffff"/>
+    <circle cx="252" cy="236" r="12" fill="#111111"/>
+    <path d="M150 58L266 58L247 92L157 92Z" fill="#111111"/>
+  </g>
+</svg>
